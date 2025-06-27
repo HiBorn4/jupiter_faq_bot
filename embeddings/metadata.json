@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Do I need to use the mobile number linked to my Aadhaar?",
+    "answer": "Yes—you must use the mobile number registered with your Aadhaar card to open and verify your Jupiter account.",
+    "category": "KYC & Verification"
+  },
+  {
+    "question": "How do I troubleshoot mobile number verification failures?",
+    "answer": "Ensure your device has the correct SIM inserted and that your SMS plan is active. Then restart the in-app verification flow from where you left off.",
+    "category": "KYC & Verification"
+  },
+  {
+    "question": "How can I update my registered mobile number if I’ve lost the old one?",
+    "answer": "Go to Settings → Profile → Mobile Number, enter the new number (must be Aadhaar-linked), and complete OTP verification.",
+    "category": "KYC & Verification"
+  },
+  {
+    "question": "What documents are required for KYC on Jupiter?",
+    "answer": "You need a photo of your Aadhaar card (front + back) and a selfie for liveness check. In some cases, your PAN card may also be requested.",
+    "category": "KYC & Verification"
+  },
+  {
+    "question": "How long does KYC verification take?",
+    "answer": "eKYC via Aadhaar OTP is usually instant (under 2 minutes). Manual document KYC can take up to 24 hours.",
+    "category": "KYC & Verification"
+  },
+  {
+    "question": "How do I earn Jupiter reward points?",
+    "answer": "You earn points on eligible transactions (e.g., bill payments, UPI transfers) at a rate of up to 2 points per ₹100 spent. Check the Rewards tab for ongoing offers.",
+    "category": "Rewards & Offers"
+  },
+  {
+    "question": "How can I redeem my Jupiter reward points?",
+    "answer": "Go to Rewards → Redeem, choose from gift cards, cashback, or partner vouchers. Minimum redemption is 500 points.",
+    "category": "Rewards & Offers"
+  },
+  {
+    "question": "Do my Jupiter reward points expire?",
+    "answer": "Yes—points expire 12 months from the date they are earned. You’ll see expiry dates in the Rewards section.",
+    "category": "Rewards & Offers"
+  },
+  {
+    "question": "Are there special offers for new users?",
+    "answer": "New users often get a welcome bonus (e.g., 200 points) after first account credit of ₹500 or more, valid for 30 days.",
+    "category": "Rewards & Offers"
+  },
+  {
+    "question": "What are the limits for UPI transactions?",
+    "answer": "Default UPI limit is ₹1 lakh per transaction and ₹2 lakh per day. You can request higher limits via your bank.",
+    "category": "Payments & Transfers"
+  },
+  {
+    "question": "How do I send money via UPI in Jupiter?",
+    "answer": "Open the app, tap Payments → Send, enter UPI ID or scan QR code, enter amount, and authenticate with your UPI PIN.",
+    "category": "Payments & Transfers"
+  },
+  {
+    "question": "Can I schedule recurring payments?",
+    "answer": "Yes—go to Payments → Schedule, set frequency (daily/weekly/monthly), amount, and beneficiary. Jupiter will auto-execute.",
+    "category": "Payments & Transfers"
+  },
+  {
+    "question": "Is there any fee for NEFT/RTGS transfers?",
+    "answer": "No—Jupiter does not charge for NEFT or RTGS transfers. Your bank may levy statutory charges.",
+    "category": "Payments & Transfers"
+  },
+  {
+    "question": "What is the minimum account balance I must maintain?",
+    "answer": "There is no minimum balance requirement on Jupiter savings accounts.",
+    "category": "Account Limits & Fees"
+  },
+  {
+    "question": "Are there ATM withdrawal fees?",
+    "answer": "You get four free domestic ATM withdrawals per month. From the fifth onwards, a ₹20 fee applies per withdrawal.",
+    "category": "Account Limits & Fees"
+  },
+  {
+    "question": "What are the cash deposit limits?",
+    "answer": "You can deposit up to ₹50,000 per transaction at partner ATMs. For higher amounts, use cheque deposit via Jupiter’s pickup service.",
+    "category": "Account Limits & Fees"
+  },
+  {
+    "question": "Is there a fee for physical debit card issuance?",
+    "answer": "The first debit card is free; a ₹100 card-replacement fee applies thereafter.",
+    "category": "Account Limits & Fees"
+  },
+  {
+    "question": "How do I enable biometric login?",
+    "answer": "Go to Settings → Security → Biometric Login, toggle it on, and authenticate via fingerprint or face.",
+    "category": "Security & Support"
+  },
+  {
+    "question": "What if I suspect unauthorized transactions?",
+    "answer": "Immediately freeze your debit card in-app under Security → Freeze Card, then contact support via the in-app chat or helpline.",
+    "category": "Security & Support"
+  },
+  {
+    "question": "How can I reach customer support?",
+    "answer": "Tap Help → Chat with Us in-app, or email support@jupiter.tech. Response time is typically under 4 hours.",
+    "category": "Security & Support"
+  }
+]

@@ -1,0 +1,11 @@
+Do I need to use the mobile number linked to my aadhaar
+Yes you need to use the mobile number linked to your aadhar card while opening an account on Jupiter
+
+What should i do if i am not able to verify my mobile number
+If your mobile verification is failing please make sure that 
+Your current deive has the sim card for the mobile number you've entered
+You have an acitve SMS plan that allows you to send messages
+Once you've checked these, you can continue the verification process from where you left
+
+What if I lost my registered mobile number
+If you are no longer using the number linekd to your account on Jupiter you can update it and add a new number. Howveer, this number must be linked to your Aadhar card
